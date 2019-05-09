@@ -1,0 +1,7 @@
+com/env/dev/DevEnv.class
+com/jcg/prop/GenericEnv.class
+com/jcg/prop/DatabaseProperties.class
+com/env/conf/BootApplication.class
+com/env/test/TestEnv.class
+com/jcg/prop/JmsProperties.class
+com/env/prod/ProdEnv.class

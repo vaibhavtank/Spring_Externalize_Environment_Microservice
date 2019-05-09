@@ -1,0 +1,7 @@
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/env/test/TestEnv.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/env/prod/ProdEnv.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/env/conf/BootApplication.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/jcg/prop/GenericEnv.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/jcg/prop/DatabaseProperties.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/env/dev/DevEnv.java
+/home/vaibhav/Downloads/Demo/springproperties-example-code/src/main/java/com/jcg/prop/JmsProperties.java
